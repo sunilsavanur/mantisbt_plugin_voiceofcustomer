@@ -1,0 +1,11 @@
+<?php
+
+$s_plugin_VoiceOfCustomer_configuration = "Configuration";
+$s_plugin_VoiceOfCustomer_DailyScrum_Y_N = "Yes";
+$s_plugin_VoiceOfCustomer_reset = "Reset Value";
+$s_plugin_VoiceOfCustomer_foo_or_bar = "Foo or Bar";
+
+$s_plugin_VoiceOfCustomer_VOC = "Voice of Customer";
+$s_plugin_VoiceOfCustomer_install_db_voc = "Install DB for VOC";
+$s_plugin_VoiceOfCustomer_view_voc = "View VOC";
+$s_plugin_VoiceOfCustomer_example_voc = "Example of VOC";
